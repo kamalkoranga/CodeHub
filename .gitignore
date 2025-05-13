@@ -169,3 +169,4 @@ app.db
 data.sqlite
 app/auth/client_secret.json
 *.sqlite
+client_secret.json
